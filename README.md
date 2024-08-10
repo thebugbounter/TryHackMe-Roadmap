@@ -3,7 +3,7 @@ List of 300+TryHackMe rooms to start learning cybersecurity with THM
 
 <br/>
 
-Hey Guys, here is a list of **350+ Free TryHackMe rooms** to start learning hacking. I have arranged and compiled it according to different topics so that you can start hacking right away.
+Hey Guys, here is a list of **300+ Free TryHackMe rooms** to start learning hacking. I have arranged and compiled it according to different topics so that you can start hacking right away.
 
 All the rooms mentioned here are absolute free. ENJOY!!
 
