@@ -1,8 +1,5 @@
 # TryHackMe-Roadmap
 List of 300+TryHackMe rooms to start learning cybersecurity with THM
-# TryHackMe Road Map
-
----
 
 <br/>
 
